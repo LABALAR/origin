@@ -31,47 +31,47 @@ int main()
         cout << "Введите номер месяца : ";
         cin >> number;
         months month = static_cast<months> (number);
-            if (static_cast<int>(month) == 0)
+            if (number == 0)
             {
                 cout << "До свидания!" << endl;
                 break;
             }
-        switch (static_cast<int>(month))
+        switch (month)
         {
-        case 1:
+        case months::январь:
             cout << "январь" << endl;
             break;
-        case 2:
+        case months::февраль:
             cout << "февраль" << endl;
             break;
-        case 3:
+        case months::март:
             cout << "март" << endl;
             break;
-        case 4:
+        case months::апрель:
             cout << "апрель" << endl;
             break;
-        case 5:
+        case months::май:
             cout << "май" << endl;
             break;
-        case 6:
+        case months::июнь:
             cout << "июнь" << endl;
             break;
-        case 7:
+        case months::июль:
             cout << "июль" << endl;
             break;
-        case 8:
+        case months::август:
             cout << "август" << endl;
             break;
-        case 9:
+        case months::сентябрь:
             cout << "сентябрь" << endl;
             break;
-        case 10:
+        case months::октябрь:
             cout << "октябрь" << endl;
             break;
-        case 11:
+        case months::ноябрь:
             cout << "ноябрь" << endl;
             break;
-        case 12:
+        case months::декабрь:
             cout << "декабрь" << endl;
             break;
         default:
