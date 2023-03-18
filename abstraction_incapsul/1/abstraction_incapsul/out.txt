@@ -1,0 +1,3 @@
+Kotovsk, Rybnaya, 9, 99. 
+Vitebsk, Mayskaya, 43, 98. 
+Moscow, Gagarina, 5, 88. 
