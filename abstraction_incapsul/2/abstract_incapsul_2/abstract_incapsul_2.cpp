@@ -88,7 +88,8 @@ int main()
 
     file_read >> size;
     cout << "size = " << size << endl;
-    adress* arr[255];                                                ////
+   // adress* arr[255];                                                ////
+    adress** arr = new adress *[size];
 
 
 
@@ -131,6 +132,7 @@ int main()
     {
         delete arr[i];
     }
+    delete arr;
     cin.get();
     return 0;
 }

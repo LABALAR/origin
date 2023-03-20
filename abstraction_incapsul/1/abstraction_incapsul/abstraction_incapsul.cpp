@@ -67,7 +67,8 @@ int main()
 
     file_read >> size;
     cout << "size = " << size << endl;
-    adress* arr[255];                                                ////
+    //adress* arr[255];                                                ////
+    adress **arr = new adress*[size];
 
     for (int i = 0; i < size; i++)
     {
@@ -92,7 +93,7 @@ int main()
 
     //for (int i = 0; i < size; i++)
     //{
-    //    delete[] arr;
+        delete arr;
     //}
 
     cin.get();
