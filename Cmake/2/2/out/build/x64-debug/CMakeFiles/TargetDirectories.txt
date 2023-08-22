@@ -1,0 +1,4 @@
+C:/Users/arrio/OneDrive/Рабочий стол/homeworks/Cmake/2/2/out/build/x64-debug/CMakeFiles/Figure.dir
+C:/Users/arrio/OneDrive/Рабочий стол/homeworks/Cmake/2/2/out/build/x64-debug/CMakeFiles/triangle_and_square.dir
+C:/Users/arrio/OneDrive/Рабочий стол/homeworks/Cmake/2/2/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/arrio/OneDrive/Рабочий стол/homeworks/Cmake/2/2/out/build/x64-debug/CMakeFiles/rebuild_cache.dir

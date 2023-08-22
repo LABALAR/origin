@@ -1,0 +1,6 @@
+﻿cmake_minimum_required(VERSION 3.22.0)
+project(CMakeProject1)
+add_library(leaverLib SHARED Leaver.cpp)
+target_compile_definitions(leaverLib PRIVATE LEAVER_EXPORTS)
+add_executable(leave CMakeProject1.cpp)
+target_link_libraries(leave leaverLib)

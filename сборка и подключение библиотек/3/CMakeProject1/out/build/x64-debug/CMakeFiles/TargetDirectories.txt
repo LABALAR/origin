@@ -1,0 +1,4 @@
+C:/Users/arrio/OneDrive/Рабочий стол/homeworks/сборка и подключение библиотек/3/CMakeProject1/out/build/x64-debug/CMakeFiles/leaverLib.dir
+C:/Users/arrio/OneDrive/Рабочий стол/homeworks/сборка и подключение библиотек/3/CMakeProject1/out/build/x64-debug/CMakeFiles/leave.dir
+C:/Users/arrio/OneDrive/Рабочий стол/homeworks/сборка и подключение библиотек/3/CMakeProject1/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/arrio/OneDrive/Рабочий стол/homeworks/сборка и подключение библиотек/3/CMakeProject1/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
